@@ -8,6 +8,8 @@ This page is to document the projects and services that are hosted on the hallho
 
 A [Nextcloud](https://nextcloud.com/) file share server powered by [Snapcraft](https://snapcraft.io/), check out the specific snap application for Ubuntu [here](https://snapcraft.io/nextcloud). This service is hosted at [cloud.hallhome.site](https://cloud.hallhome.site). The file share is primarily a place for old family photos.
 
+[More info](/pages/nextcloud.md)
+
 ## Hall Home Site
 
 This is a main landing page for projects hosted on the web, the source code for this webapp can be found in the [hallhome-webapp](https://github.com/LHall383/hallhome-webapp) github repository. Currently the largest project contained in this repository is the Music Taste Analysis application that uses the Spotify API to provide some stats about a user's listening activity.
